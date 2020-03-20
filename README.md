@@ -1,5 +1,5 @@
-# CS201
+# CS201 <br/>
 
-Homework 1 - Film Management System using Dynamically Allocated Arrays \n
-Homework 2 - Time Complexity Analaysis of Algorithms (NOT INCLUDED)
-Homework 3 - Book Collection System using Linked Lists
+Homework 1 - Film Management System using Dynamically Allocated Arrays <br/>
+Homework 2 - Time Complexity Analaysis of Algorithms (NOT INCLUDED)<br/>
+Homework 3 - Book Collection System using Linked Lists<br/>
