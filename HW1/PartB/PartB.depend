@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1573774231 source:/home/osama/Desktop/PartB/Actor.cpp
+	"Actor.h"
+
+1573765893 /home/osama/Desktop/PartB/Actor.h
+	<string>
+	<iostream>
+
+1573774275 source:/home/osama/Desktop/PartB/Film.cpp
+	"Film.h"
+
+1573763624 /home/osama/Desktop/PartB/Film.h
+	"Actor.h"
+
+1573763969 source:/home/osama/Desktop/PartB/FC.cpp
+	"FC.h"
+	"Film.h"
+
+1573764950 /home/osama/Desktop/PartB/FC.h
+	"Film.h"
+
+1573765901 source:/home/osama/Desktop/PartB/TestPartB.cpp
+	"Film.h"
+	"FC.h"
+

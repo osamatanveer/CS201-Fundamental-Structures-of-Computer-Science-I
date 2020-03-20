@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1573740477 source:/home/osama/Desktop/PartA/SimpleFC.cpp
+	"SimpleFC.h"
+
+1573722073 /home/osama/Desktop/PartA/SimpleFC.h
+	"SimpleFilm.h"
+
+1573721955 /home/osama/Desktop/PartA/SimpleFilm.h
+	<string>
+	<iostream>
+
+1573774393 source:/home/osama/Desktop/PartA/SimpleFilm.cpp
+	"SimpleFilm.h"
+
+1573722054 source:/home/osama/Desktop/PartA/TestPartA.cpp
+	"SimpleFilm.h"
+	"SimpleFC.h"
+
